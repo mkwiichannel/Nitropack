@@ -1438,6 +1438,7 @@
     <file external="/MarioKartNitro_Test/Assets/Boot/Strap/eu/English.szs" disc="/Boot/Strap/eu/English.szs" create="true" />
     <folder external="/MarioKartNitro_Test/CTBRSTM" disc="/Sound/strm" create="true" />
     <folder external="/MarioKartNitro_Test/Ghosts/Experts" disc="/Experts" create="true" />
+    <folder external="/MarioKartNitro_Test/Ghosts/ExpertsRT" disc="/Ghosts/ExpertsRT" create="true" />
     <file external="/MarioKartNitro_Test/MenuRace/Menusingle.szs" disc="/Scene/UI/MenuSingle.szs" create="true" />
     <file external="/MarioKartNitro_Test/MenuRace/MenuMulti.szs" disc="/Scene/UI/MenuMulti.szs" create="true" />
     <file external="/MarioKartNitro_Test/MenuRace/MenuOther.szs" disc="/Scene/UI/MenuOther.szs" create="true" />
