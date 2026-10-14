@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mario Kart Nitro: Nitropack
+# Mario Kart NitroPack
 
 **The mod files for Mario Kart Nitro.**
 Custom tracks, characters, music and more for Mario Kart Wii.
