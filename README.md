@@ -3,7 +3,7 @@
 # Mario Kart NitroPack
 
 **The mod files for Mario Kart Nitro.**
-Custom tracks, characters, music and more for Mario Kart Wii.
+Custom tracks, characters, music and more...
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 [![Launcher](https://img.shields.io/badge/Launcher-mkwiichannel%2Fnitro-ff8c00.svg)](https://github.com/mkwiichannel/nitro)
